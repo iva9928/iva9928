@@ -4,32 +4,49 @@
 
 ### C# & .NET Developer · Informatics and Software Sciences Student
 
-*Turning ideas into thoughtful, reliable software.*
+✨ *Curious by nature, thoughtful in code, always evolving.*
 
 </div>
 
 ---
 
-### About me
+## 👩‍💻 About me
 
-I’m a **C# and .NET developer from Bulgaria**, currently studying **Informatics and Software Sciences at TU Sofia**.
+I’m a **C# and .NET developer from Bulgaria**, currently studying  
+**Informatics and Software Sciences at TU Sofia**.
 
-After completing the **C# path at SoftUni** and the **IT Career programme**, I’m continuing to deepen my knowledge of backend development, databases, web technologies, and DevOps.
+My journey began with curiosity and grew through the complete  
+**C# path at SoftUni** and the **IT Career programme**.
 
-I enjoy exploring how an idea becomes a working application and improving my skills through every project I build.
+I’m especially interested in the space where **logic meets creativity** —  
+turning ideas into practical applications, understanding how systems work,  
+and becoming a better developer with every project I build.
 
-### Current focus
+---
 
-- Building practical **C# and .NET applications**
-- Strengthening my knowledge of **ASP.NET Core and databases**
-- Exploring **DevOps, automation, and modern development practices**
+## 🎓 Academic focus
 
-### Tech stack
+🔹 Studying **Informatics and Software Sciences**  
+🔹 Strengthening my knowledge of **algorithms, mathematics, and programming**  
+🔹 Exploring **software engineering, databases, and web technologies**  
+🔹 Applying new concepts through **projects and practical problem-solving**
 
-`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `SQL`  
-`JavaScript` · `HTML` · `CSS` · `Git` · `
+---
+
+## 🧩 My toolkit
+
+<p align="center">
+
+ · `C#` · `Python` · `JavaScript` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `SQL`
+
+ · `HTML` · `CSS` · `Git` · `GitHub`
+
+</p>
+
+---
+
 <div align="center">
 
-**Learning deeply. Building thoughtfully. Growing continuously. ✦**
+### ✦ From curiosity to code, one meaningful project at a time.
 
 </div>
