@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**iva9928/iva9928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Iva Hadzhieva 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### C# & .NET Developer · Informatics and Software Science Student
+
+*Turning ideas into clean, purposeful software.*
+
+</div>
+
+---
+
+### About me
+
+🎓 Studying **Informatics and Software Science at TU Sofia**  
+💻 Completed the **C# path at SoftUni** and the **IT Career programme**  
+🔭 Currently building practical **C# and .NET applications**  
+🌱 Expanding my knowledge in **backend development, databases, and DevOps**
+
+### Tech stack
+
+`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `SQL` · `JavaScript` · `HTML` · `CSS` · `Git`
+
+### Connect with me
+
+[LinkedIn](YOUR-LINKEDIN-LINK) · [Instagram](YOUR-INSTAGRAM-LINK) · [Email](mailto:YOUR-EMAIL)
+
+---
+
+<div align="center">
+
+**Code with purpose. Create with curiosity. Grow without limits. ✦**
+
+</div>
