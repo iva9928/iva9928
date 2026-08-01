@@ -2,9 +2,9 @@
 
 # Hi, I'm Iva Hadzhieva 👋
 
-### C# & .NET Developer · Informatics and Software Science Student
+### C# & .NET Developer · Informatics and Software Sciences Student
 
-*Turning ideas into clean, purposeful software.*
+*Turning ideas into thoughtful, reliable software.*
 
 </div>
 
@@ -12,19 +12,24 @@
 
 ### About me
 
-🎓 Studying **Informatics and Software Science at TU Sofia**  
-💻 Completed the **C# path at SoftUni** and the **IT Career programme**  
-🔭 Currently building practical **C# and .NET applications**  
-🌱 Expanding my knowledge in **backend development, databases, and DevOps**
+I’m a **C# and .NET developer from Bulgaria**, currently studying **Informatics and Software Sciences at TU Sofia**.
+
+After completing the **C# path at SoftUni** and the **IT Career programme**, I’m continuing to deepen my knowledge of backend development, databases, web technologies, and DevOps.
+
+I enjoy exploring how an idea becomes a working application and improving my skills through every project I build.
+
+### Current focus
+
+- Building practical **C# and .NET applications**
+- Strengthening my knowledge of **ASP.NET Core and databases**
+- Exploring **DevOps, automation, and modern development practices**
 
 ### Tech stack
 
-`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `SQL` · `JavaScript` · `HTML` · `CSS` · `Git`
-
----
-
+`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `SQL`  
+`JavaScript` · `HTML` · `CSS` · `Git` · `
 <div align="center">
 
-**Code with purpose. Create with curiosity. Grow without limits. ✦**
+**Learning deeply. Building thoughtfully. Growing continuously. ✦**
 
 </div>
