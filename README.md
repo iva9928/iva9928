@@ -21,10 +21,6 @@
 
 `C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `SQL` · `JavaScript` · `HTML` · `CSS` · `Git`
 
-### Connect with me
-
-[LinkedIn](YOUR-LINKEDIN-LINK) · [Instagram](YOUR-INSTAGRAM-LINK) · [Email](mailto:YOUR-EMAIL)
-
 ---
 
 <div align="center">
