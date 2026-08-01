@@ -4,7 +4,7 @@
 
 ### C# & .NET Developer · Informatics and Software Sciences Student
 
-✨ *Curious by nature, thoughtful in code, always evolving.*
+✨ **Focused on thoughtful software, strong foundations, and continuous growth.**
 
 </div>
 
@@ -33,20 +33,8 @@ and becoming a better developer with every project I build.
 
 ---
 
-## 🧩 My toolkit
-
-<p align="center">
-
- · `C#` · `Python` · `JavaScript` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `SQL`
-
- · `HTML` · `CSS` · `Git` · `GitHub`
-
-</p>
-
----
-
 <div align="center">
 
-### ✦ From curiosity to code, one meaningful project at a time.
+### ✦ Learning with intention · Building with purpose · Growing through practice
 
 </div>
